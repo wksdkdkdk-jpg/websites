@@ -113,7 +113,8 @@ Many manufacturers have made modifications to the Android system that prevent Sh
 
 Please allow Shizuku to run in the background.
 
-Searching for pairing service requires access to the local network, and many manufacturers disable network access for apps as soon as they become invisible. You can search the web for how to allow apps to run in the background on your device.
+Searching for pairing service requires access to the local network, and many manufacturers disable network access for apps as soon as they become invisible. You can search the web for how to a
+llow apps to run in the background on your device.
 
 ### Start via wireless debugging: immediately fail after tapping "Enter pairing code"
 
